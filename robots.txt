@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://malikahmad1233.github.io/rieno-network/sitemap.xml

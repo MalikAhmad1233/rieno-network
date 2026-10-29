@@ -1,0 +1,5 @@
+:HL["/rieno-network/_next/static/chunks/01yx3o1hb-2ru.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"contact","h":64,"c":"$Q2"}]]
+0:{"b":"7GQmYKg2kO3DutC8ZLQxr","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
